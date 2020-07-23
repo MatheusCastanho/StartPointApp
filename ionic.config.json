@@ -1,0 +1,7 @@
+{
+  "name": "AppStartPoint",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
